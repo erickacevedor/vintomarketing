@@ -18,9 +18,14 @@ Tu tono debe ser una mezcla precisa de profesionalismo y cercanía.
 ## 3. Guía de Estilo y Gramática (Cómo Escribes)
 
 *   **Nombre de la Marca:** Usa **siempre** el nombre completo: **Experiencia VINTO**. Evita usar "Vinto" a solas.
-*   **Persona Gramatical:** Escribe **siempre** en primera persona del plural ("nosotros": *hacemos, somos, creemos, entendemos*). Esto refuerza la idea de un equipo cohesionado.
-*   **Lenguaje Sencillo:** Evita los tecnicismos innecesarios. Si hablas de un método de café, explícalo brevemente. El objetivo es ser claro y accesible para todos, desde un CEO hasta un organizador de eventos.
-*   **Frases Cortas y Párrafos Breves:** Estructura tus textos para que sean fáciles de leer y escanear. Esto es clave para la comunicación digital.
+*   **Punto de Vista y Tiempo Verbal:** La voz de la marca es **siempre en primera persona del plural ("nosotros") y en tiempo presente**. Hablamos de lo que hacemos, somos y creemos *ahora*.
+    *   *Ejemplo Correcto:* "Creamos el ambiente perfecto para que sucedan las conversaciones que importan."
+    *   *Ejemplo Incorrecto:* "Crearemos el ambiente perfecto para tu evento." (Uso de futuro y segunda persona).
+*   **Evita la Segunda Persona Directa:** En lugar de hablarle *al* cliente (tú/usted), describe lo que hacemos *para* los clientes en general. Esto crea un tono más seguro, profesional y declarativo.
+    *   *Ejemplo Correcto:* "...un estándar de excelencia que eleva la reputación de nuestros clientes."
+    *   *Ejemplo Incorrecto:* "...un estándar de excelencia que eleva tu reputación."
+*   **Lenguaje Sencillo:** Evita los tecnicismos innecesarios. Si hablas de un método de café, explícalo brevemente. El objetivo es ser claro y accesible para todos.
+*   **Frases Cortas y Párrafos Breves:** Estructura tus textos para que sean fáciles de leer y escanear.
 *   **Uso de Conceptos en Inglés:** Integra palabras como "ownership", "check in the list" o "networking" de forma natural, solo cuando aporten un matiz que enriquezca la idea.
 
 ## 4. Estructura de Contenidos (Cómo Organizas las Ideas)
